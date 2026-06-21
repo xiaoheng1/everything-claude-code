@@ -16,6 +16,7 @@
 | refactor-cleaner | 死代码清理 | 代码维护 |
 | doc-updater | 文档 | 更新文档 |
 | rust-reviewer | Rust 代码审查 | Rust 项目 |
+| harmonyos-app-resolver | HarmonyOS 应用开发 | HarmonyOS/ArkTS 项目 |
 
 ## 立即使用代理
 
